@@ -1,0 +1,22 @@
+[
+    {
+        "name":"square1",
+        "width": "100px",
+        "background":"red"
+    },
+    {
+        "name":"square1",
+        "width": "100px",
+        "background":"red"
+    },
+    {
+        "name":"square1",
+        "width": "200px",
+        "background":"black"
+    },
+     {
+        "name":"square1",
+        "width": "300px",
+        "background":"yellow"
+    }
+]
